@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/sailyshah/<OWNER>/<OWNER>readme_header.gif "Header")]
+[![Header](https://raw.githubusercontent.com/sailyshah/<OWNER>/<OWNER>readme_header.png "Header")]
 view rawheader hosted with ❤ by GitHub
 ### Hi there 👋
 
