@@ -5,7 +5,5 @@
 ❤❤❤
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on building up my portfolio
-- 🌱 I’m currently learning computer vision
-- 📫 How to reach me: ...           
+My name is Saily Shah. I am a data scientist & a Structural engineer. 🔭 I’m currently working on building up my portfolio. 
+For enquires, you can reach out <48sailyshahgmail.com> 
