@@ -1,7 +1,7 @@
 
 https://github.com/sailyshah/sailyshah/blob/main/sailyshah.gif
 
-![alt text](https://github.com/sailyshah/sailyshah/blob/main/SAILY SHAH (4).gif "Logo Title Text 1")
+![alt text](https://github.com/sailyshah/sailyshah/blob/main/SAILY-SHAH(4).gif "Logo Title Text 1")
 
 ![readme](https://github.com/sailyshah/sailyshah/blob/master/readme.gif)
 
