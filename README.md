@@ -1,6 +1,6 @@
-https://github.com/sailyshah/sailyshah/readme.gif
 
-![readme](https://github.com/sailyshah/sailyshah/readme.gif)
+
+![readme](https://github.com/sailyshah/sailyshah/blob/master/readme.gif)
 
 ![](readme.gif)
 
