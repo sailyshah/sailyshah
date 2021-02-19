@@ -1,4 +1,6 @@
 
+![](readme.gif)
+
 [![Header](https://raw.githubusercontent.com/sailyshah/<OWNER>/<OWNER>sailyshah/readme.gif "Header")]
 view rawheader hosted with ❤ by GitHub
 ### Hi there 👋
